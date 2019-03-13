@@ -1,6 +1,6 @@
 {
   "name": "service-cache-middleware",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "服务器缓存中间件",
   "main": "lib/index.js",
   "scripts": {
